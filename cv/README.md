@@ -158,4 +158,4 @@
 </body>
 </html>
 
-[https://codepen.io/Aqshal-Hadi-Alifvyansyach/pen/JoXrOww]([https://codepen.io/Aqshal-Hadi-Alifvyansyach/pen/JoXrOww](https://github.com/aqshal1311/CV/tree/main/cv)).
+([https://codepen.io/Aqshal-Hadi-Alifvyansyach/pen/JoXrOww](https://github.com/aqshal1311/CV/tree/main/cv)).
